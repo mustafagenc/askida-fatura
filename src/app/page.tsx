@@ -1,4 +1,3 @@
-
 export default function Home() {
-  return <>Test Deneme 1 2 3</>;
+    return <>Test Deneme 1 2 3</>;
 }
